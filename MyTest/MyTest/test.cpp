@@ -1,30 +1,15 @@
 #include <iostream>
-using namespace std;
-#include "test.h"
-#include <vector>
-#include <string>   
-#include <cassert>
+#include "chapterOne.h"
+
 int main() 
 {
-    int a = 5;
-    int b = 6;
-  //  test01();
-    int ret =  test02(a);
-    cout << ret << endl;
-
-
-    test03(&a, &b);
-    cout << a << b << endl;
-    /*vector<int> v;
-    v.push_back(2);
-    v.push_back(3);
-    v.push_back(4);
-    v.push_back(5);*/
-
-    int arr[4] = { 0,1,2,3 };
-
-    test04(begin(arr),end(arr));
-    
-    /*int val = 0;
-    assert(val);*/
+	test1_3();
+	test1_4(3,4);
+	test1_9();
+	test1_10();
+	std::cout << "请输入两个整数:";
+	int v1 = 0, v2 = 0;
+	std::cin >> v1 >> v2;
+	test1_11(v1, v2);
+	test1_16();
 }
