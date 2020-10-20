@@ -46,17 +46,17 @@ void test1_11(int a,int b)
         }
     }
 }
-void test1_16()
-{
-    std::cout << "请输入一组数：";
-        int sum = 0;
-        int value = 0;
-        while (std::cin >> value)
-        
-            sum += value;
-        
-        std::cout << "Sum is:" << sum << std::endl;
-
-        return 0;
-}
+//void test1_16()
+//{
+//    std::cout << "请输入一组数：";
+//        int sum = 0;
+//        int value = 0;
+//        while (std::cin >> value)
+//        
+//            sum += value;
+//        
+//        std::cout << "Sum is:" << sum << std::endl;
+//
+//        return 0;
+//}
 #endif // TEST_H
