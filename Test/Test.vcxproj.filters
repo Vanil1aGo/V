@@ -29,5 +29,14 @@
     <ClCompile Include="dm_04变量的本质.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="dm07_指针变量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dm08.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dm09_间接赋值技术推演.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
