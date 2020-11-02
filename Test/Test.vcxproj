@@ -151,12 +151,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="de01.cpp" />
     <ClCompile Include="dm07_指针变量.c" />
     <ClCompile Include="dm08.c" />
     <ClCompile Include="dm09_间接赋值技术推演.c" />
+    <ClCompile Include="dm10_字符串基本操作.c" />
     <ClCompile Include="dm_03_数据类型分析.cpp" />
     <ClCompile Include="dm_02.cpp" />
     <ClCompile Include="dm_04变量的本质.cpp" />
+    <ClCompile Include="一级指针内存模型.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="socketClient.h" />

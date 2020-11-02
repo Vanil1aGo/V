@@ -38,5 +38,14 @@
     <ClCompile Include="dm09_间接赋值技术推演.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="dm10_字符串基本操作.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一级指针内存模型.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="de01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
