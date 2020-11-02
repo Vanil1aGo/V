@@ -47,5 +47,17 @@
     <ClCompile Include="de01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="de02_namespace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="de03_const基础用法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="de04_引用基础.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="de05_引用的本质.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -152,6 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="de01.cpp" />
+    <ClCompile Include="de02_namespace.cpp" />
+    <ClCompile Include="de03_const基础用法.cpp" />
+    <ClCompile Include="de04_引用基础.cpp" />
+    <ClCompile Include="de05_引用的本质.cpp" />
     <ClCompile Include="dm07_指针变量.c" />
     <ClCompile Include="dm08.c" />
     <ClCompile Include="dm09_间接赋值技术推演.c" />
